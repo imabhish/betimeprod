@@ -286,7 +286,7 @@ if($sum13['total13']==""){
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
-    <title>567bet</title>
+    <title>Betime</title>
     <link href="/css/app.5d712b158b516e760fbff54839dedd12.css" rel="stylesheet">
 </head>
 
