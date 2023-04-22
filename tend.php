@@ -296,7 +296,7 @@ if($sum13['total13']==""){
             <div class="parity-content">
                 <div class="van-nav-bar van-hairline--bottom" style="z-index: 1;">
                     <div class="van-nav-bar__left"></div>
-                    <div class="van-nav-bar__title van-ellipsis">Sapre Record</div>
+                    <div class="van-nav-bar__title van-ellipsis">Today's Record</div>
                     <div class="van-nav-bar__right"></div>
                 </div>
                 <div>
