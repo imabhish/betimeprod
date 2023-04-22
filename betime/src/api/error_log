@@ -1,0 +1,174 @@
+[28-Mar-2023 12:11:01 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gterpjub/public_html/trova/src/api/me.php on line 46
+[28-Mar-2023 12:11:01 UTC] PHP Stack trace:
+[28-Mar-2023 12:11:01 UTC] PHP   1. {main}() /home/gterpjub/public_html/trova/src/api/me.php:0
+[28-Mar-2023 12:11:01 UTC] PHP   2. mysqli_fetch_assoc($result = FALSE) /home/gterpjub/public_html/trova/src/api/me.php:46
+[28-Mar-2023 12:11:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gterpjub/public_html/trova/src/api/me.php on line 46
+[28-Mar-2023 12:11:32 UTC] PHP Stack trace:
+[28-Mar-2023 12:11:32 UTC] PHP   1. {main}() /home/gterpjub/public_html/trova/src/api/me.php:0
+[28-Mar-2023 12:11:32 UTC] PHP   2. mysqli_fetch_assoc($result = FALSE) /home/gterpjub/public_html/trova/src/api/me.php:46
+[28-Mar-2023 12:13:35 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gterpjub/public_html/trova/src/api/me.php on line 46
+[28-Mar-2023 12:13:35 UTC] PHP Stack trace:
+[28-Mar-2023 12:13:35 UTC] PHP   1. {main}() /home/gterpjub/public_html/trova/src/api/me.php:0
+[28-Mar-2023 12:13:35 UTC] PHP   2. mysqli_fetch_assoc($result = FALSE) /home/gterpjub/public_html/trova/src/api/me.php:46
+[28-Mar-2023 12:13:44 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, bool given in /home/gterpjub/public_html/trova/src/api/me.php on line 46
+[28-Mar-2023 12:13:44 UTC] PHP Stack trace:
+[28-Mar-2023 12:13:44 UTC] PHP   1. {main}() /home/gterpjub/public_html/trova/src/api/me.php:0
+[28-Mar-2023 12:13:44 UTC] PHP   2. mysqli_fetch_assoc($result = FALSE) /home/gterpjub/public_html/trova/src/api/me.php:46
+[21-Apr-2023 10:51:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u676395725_beprodb'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/conn.php on line 13
+[21-Apr-2023 10:51:19 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/betimeli/public_html/betime/src/api/conn.php on line 17
+[21-Apr-2023 10:51:19 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'u676395725_beprodb'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/conn.php on line 13
+[21-Apr-2023 10:51:19 UTC] PHP Warning:  dir(Error: Cannot connect): failed to open dir: No such file or directory in /home/betimeli/public_html/betime/src/api/conn.php on line 17
+[21-Apr-2023 10:51:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u676395725_beprodb'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/me.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/me.php(3): PDO->__construct('mysql:host=loca...', 'u676395725_bepr...', 'Shadow@125')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/me.php on line 3
+[21-Apr-2023 10:51:19 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'u676395725_beprodb'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', 'u676395725_bepr...', 'Shadow@125')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:03:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/me.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/me.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/me.php on line 3
+[21-Apr-2023 11:03:51 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:04:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:04:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:04:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:02 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:05 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:06:10 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/bet.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/bet.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/bet.php on line 3
+[21-Apr-2023 11:07:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user ''betimeli_db'@'localhost' (using password: YES) in /home/betimeli/public_html/betime/src/api/me.php:3
+Stack trace:
+#0 /home/betimeli/public_html/betime/src/api/me.php(3): PDO->__construct('mysql:host=loca...', ''betimeli_db', 'GNZubfF[6sxe')
+#1 {main}
+  thrown in /home/betimeli/public_html/betime/src/api/me.php on line 3
+[21-Apr-2023 11:08:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 11:21:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 11:25:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 11:25:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 11:25:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 11:28:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 12:06:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 12:15:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 12:50:34 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 12:53:31 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 13:51:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:04:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:04:18 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:04:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:18:53 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:18:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:19:07 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:19:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:19:56 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:20:15 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:52:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:52:57 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:53:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 14:53:10 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 15:12:26 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 18:05:20 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 18:05:28 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 18:32:50 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[21-Apr-2023 19:25:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:41:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:41:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:43:13 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:43:39 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:43:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:44:45 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:44:49 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:44:58 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:44:59 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46
+[22-Apr-2023 14:45:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/betime/src/api/me.php on line 46

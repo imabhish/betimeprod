@@ -1,0 +1,9 @@
+[21-Apr-2023 13:01:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 42
+[21-Apr-2023 13:01:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 56
+[21-Apr-2023 13:01:40 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 85
+[21-Apr-2023 14:06:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 42
+[21-Apr-2023 14:06:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 56
+[21-Apr-2023 14:06:43 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 85
+[21-Apr-2023 14:20:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 42
+[21-Apr-2023 14:20:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 56
+[21-Apr-2023 14:20:33 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/betimeli/public_html/admin.php on line 85
