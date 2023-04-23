@@ -25,8 +25,7 @@
               '" alt=""></div><span data-v-68d7bcd4="">Download Our App</span><div data-v-68d7bcd4="" class="download_box"><a data-v-68d7bcd4="" target="_self" href="/testapp_1.0.0.apk" download="app.apk" style="color:rgb(78, 78, 78);font-size:16px;"><img data-v-68d7bcd4="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAABYklEQVRoQ+3a3RGCMAwA4HQJh9AldAmf6SSek5Rnl9AldAiXqJcT7zi1JW0S4CC8eRd+voQWGnSwkM0txAEG6VfSe3/lVDaEcODsj/uKVKSD7Csv5maQXuasIn/GiN1aNkZsjCTmV5t+34mx50j/BrHniD1HficMGyOkMeK938YYN5Q3WufcCQCqX1FijGfieZ4hhMe/2OxgRwwAXABgRzmRYswdAI4pBGk9MgPMIIIEwaAJMSQEGTIRhowogoyMKUIUQ0bCFCOqIMqYKkQ1RAlTjWBBhDEsBBsihGEjRCBMjAhCDFKJEUOIQgoxoghxCBEjjlCBDGBUEGqQBEYNoQr5wuDP7HoCAzibSBcldwHdEgByiyIO4LOvOkTiIinHMAglS2PGrKMiTdNgm2c2W9u2ybbRUDsIPzvX9qukE5DtSBpEOt2E41lFsDHH+msGIctFIbmvv+uYfovSNXHwYiryAhi53DPcFIGeAAAAAElFTkSuQmCC" alt=""></a></div></div><div data-v-68d7bcd4="" class="swiper_box"><div data-v-68d7bcd4="" style="height:515px;" class="my-swipe van-swipe"><div class="van-swipe__track"><div class="slideshow-container"><div class="slides"><img src="' +
               v +
               '" alt="one" class="pic" name="1"><img src="' +
-              p +
-            2
+              p 
           ),
           h = (0, d._)(
             "div",
