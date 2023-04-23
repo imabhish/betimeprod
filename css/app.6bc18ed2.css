@@ -13267,10 +13267,10 @@ ul {
     left: 0;
     height: 100%;
     -o-object-fit: cover;
-    object-fit: cover;
+    object-fit: contain;
     position: absolute;
     top: 0;
-    width: 45%
+    width: 40%
 }
 
 .pic:first-child {
