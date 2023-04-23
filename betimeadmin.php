@@ -16,7 +16,7 @@ if(isset($_SESSION['adusername']))
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" href="favicon.ico">
-    <title>TROVA ADMIN</title>
+    <title>Betime</title>
     <link href="css/app.46643acf.css" rel="preload" as="style">
     <link href="css/chunk-vendors.cf06751b.css" rel="preload" as="style">
     <link href="js/chunk-vendors.824d6eef.js" rel="preload" as="script">
