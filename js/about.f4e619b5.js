@@ -7542,7 +7542,7 @@
                         (0, i._)(
                           "p",
                           D,
-                          " https://beproo.website//#/register?r_code=" +
+                          " https://betime.live//#/register?r_code=" +
                             (0, d.zw)(ca.info.usercode),
                           1
                         ),
@@ -7555,7 +7555,7 @@
                           "data-v-aa6d4f0a": "",
                           onClick: e[1] || (e[1] = (a) => oa.copylink()),
                           "data-clipboard-text":
-                            "https://beproo.website//#/register?r_code={{info.usercode}}",
+                            "https://betime.live//#/register?r_code={{info.usercode}}",
                           class: "tag-read ripplegrey",
                         },
                         " Copy Link "
@@ -10796,7 +10796,7 @@
               "button",
               {
                 "data-v-b74b9dc6": "",
-                onclick: "window.location.href='https://beproo.website/tend'",
+                onclick: "window.location.href='https://betime.live/tend'",
               },
               "Trend"
             ),
