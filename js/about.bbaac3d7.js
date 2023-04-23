@@ -1711,8 +1711,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -1876,8 +1877,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -2428,8 +2430,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -2642,8 +2645,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -2778,8 +2782,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -2974,8 +2979,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -3229,8 +3235,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -3743,8 +3750,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -4004,8 +4012,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -4511,8 +4520,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -4976,8 +4986,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -5441,8 +5452,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -6248,8 +6260,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -6920,8 +6933,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -7039,8 +7053,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -7293,8 +7308,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -7961,8 +7977,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -8422,8 +8439,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -8884,8 +8902,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -9287,8 +9306,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -9878,8 +9898,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -10232,8 +10253,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -10475,8 +10497,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -11084,8 +11107,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -12413,8 +12437,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
@@ -12918,8 +12943,9 @@
                 "li",
                 {
                   "data-v-405e9a63": "",
-                  onclick: "window.location.href='#/Search'",
-                  class: "",
+                 onclick: "window.location.href='#/search'",
+                    class: "",
+                    style: { display: "none" },
                 },
                 [
                   (0, i._)("img", {
