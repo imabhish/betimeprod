@@ -13264,13 +13264,11 @@ ul {
 }
 
 .pic {
-    left: 0;
+    left: -143px;
     height: 100%;
-    -o-object-fit: cover;
-    object-fit: contain;
-    position: absolute;
-    top: 0;
-    width: 40%
+   
+    top: 21px;
+    width: 64%
 }
 
 .pic:first-child {
