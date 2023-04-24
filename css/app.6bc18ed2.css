@@ -195,6 +195,12 @@ body {
     color: #ee0a24;
     font-size: 16px
 }
+.how_title[data-v-68d7bcd4] {
+    text-align: center;
+    padding: 12px 12px 0;
+    color: #009688;
+    font-size: 28px
+}
 
 .my-swipe[data-v-68d7bcd4] {
     height: 500px;
