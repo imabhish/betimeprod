@@ -13201,12 +13201,12 @@ ul {
     }
 }
 
-/* .inleft {
+.inleft {
     -webkit-animation: goInR .8s cubic-bezier(1, 1.4, .61, .74);
     animation: goInR .8s cubic-bezier(1, 1.4, .61, .74);
     position: relative;
     z-index: 300 !important
-} */
+}
 
 @-webkit-keyframes goInR {
     0% {
@@ -13236,12 +13236,12 @@ ul {
     }
 }
 
-/* .outleft {
+.outleft {
     -webkit-animation: goOutR .5s cubic-bezier(1, 1.59, .61, .74);
     animation: goOutR .5s cubic-bezier(1, 1.59, .61, .74);
     position: relative;
     z-index: 200
-} */
+}
 
 @-webkit-keyframes goOutR {
     0% {
