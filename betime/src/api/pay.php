@@ -601,15 +601,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                         <p class="level-2" style="margin-bottom:0;color:#333;">Ref No. Example</p>
                         <p class="level-2 red">Click on the picture to view details</p>
                         <div class="img-row">
-                            <img onclick="dis('/trova/example1.png')" src="/trova/small1.png">
-                            <img onclick="dis('/trova/example2.png')" src="/trova/small2.png">
+                            <img onclick="dis('/betime/example1.png')" src="/betime/small1.png">
+                            <img onclick="dis('/betime/example2.png')" src="/betime/small2.png">
                         </div>
                         <div class="img-row">
-                            <img onclick="dis('/trova/example3.png')" src="/trova/small3.png">
-                            <img onclick="dis('/trova/example4.png')" src="/trova/small4.png">
+                            <img onclick="dis('/betime/example3.png')" src="/betime/small3.png">
+                            <img onclick="dis('/betime/example4.png')" src="/betime/small4.png">
                         </div>
                         <div class="img-row">
-                            <img onclick="dis('/trova/example5.png')" src="/trova/small5.png">
+                            <img onclick="dis('/betime/example5.png')" src="/betime/small5.png">
                         </div>
                     </div>
                 </div>
@@ -623,15 +623,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     </div>
     </div>
     <div id="show-big-img" style="display: none;">
-        <img id="big-img" src="/trova/example1.png">
+        <img id="big-img" src="/betime/example1.png">
         <button onclick="closeo()"class="btn-close" style="color: rgb(0, 0, 0); border-color: rgb(0, 0, 0);"> <span aria-hidden="true">&times;</span></button>
     </div>
     <div style="width:0;height:0" id="hide-img">
-        <img src="/trova/example1.png">
-        <img src="/trova/example2.png">
-        <img src="/trova/example3.png">
-        <img src="/trova/example4.png">
-        <img src="/trova/example5.png">
+        <img src="/betime/example1.png">
+        <img src="/betime/example2.png">
+        <img src="/betime/example3.png">
+        <img src="/betime/example4.png">
+        <img src="/betime/example5.png">
     </div>
     <script type="text/javascript">
         let timerOn = true;
