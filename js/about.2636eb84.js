@@ -9328,7 +9328,7 @@
                       this.user.username.substring(3)
                   ),
                   this.pop("Success"),
-                  this.timer(180))
+                  this.timer(30))
                 : this.pop("Mobile number is requied");
             },
             timer(a) {
